@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Momen
+- 👋 Hi, I’m Momen
 - 👀 I’m interested in computer programing 
 - 🌱 I’m currently learning coding
-- 📫 How to reach me instgram : momenahmed16
+- 📫 my instgram is : momenahmed16
 
 <!---
 Momen600/Momen600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
